@@ -1,5 +1,5 @@
-SpringAOP
-=========
+SpringAOP - Spring AOP Example – Advice
+=======================================
 
 To show how to use Spring AOP feature Aspect Oriented Programming
 
